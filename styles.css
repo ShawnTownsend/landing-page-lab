@@ -42,3 +42,7 @@ article {
     height: 700px;
     float: right;
 }
+
+.article-1, .article-2 {
+    font-family: sans-serif
+}
